@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container {
+    background-image: url("https://th.bing.com/th/id/OIP.lZ786m0ycPUnmVFUvq1_WQAAAA?pid=ImgDet&w=205&h=113&c=7&dpr=1.8"alt="boy-image">);
+    background-position:center;
+    
+}
+.card{
+    background:white;
+    box-shadow: 0 0 10px black
+
+}
+
+.card-login{
+    width: 300px;
+
+}
+.login-header{
+    padding:15px
+}
+.login-header span{
+    font-size: 24px;
+    font-weight:600;
+}
+.login-content{
+    padding:2px
+}
